@@ -18,7 +18,7 @@ public class JokerPoker
 	public static void main(String[] args) throws IOException
 	{
 		PokerSlots	slots;
-		int			nAccount = 1000;
+		int			nAccount = 100000;
 		boolean		bQuit = false;
 		int			nLastBet = 10;
 		int			nBet = 0;
